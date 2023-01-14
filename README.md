@@ -3,7 +3,7 @@
 ## Description
 This app allows a user to create and view a database using mySQL. They may view departments, roles, and employees within this database. User may also add departments, add roles, and employees, along with updating said employees roles.
 
-[Video Demo]()
+[Video Demo](https://app.castify.com/view/281172e1-ba1f-48fa-ad20-4af5025147dc)
 
 ## Table of Contents
 1.  [Title](#title)

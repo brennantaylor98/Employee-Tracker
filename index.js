@@ -2,12 +2,13 @@ const inquirer= require('inquirer')
 const db = require('./connection')
 
 
+
 function questions() {
     inquirer.prompt([
       {
         name: "prompt",
         type: "list",
-        message: "What would you like to do?",
+        message: "\n✩ ⫸ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nWELCOME TO THE EMPLOYEE TRACKER APPLICATION!\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ⫷ ✩ \n What would you like to do?",
         choices: [
           "View departments",
           "View roles",
